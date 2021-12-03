@@ -8,12 +8,12 @@
 - If there is a cuda version issue in installation, try pre-built detectron2 for linux at  
 https://detectron2.readthedocs.io/en/latest/tutorials/install.html 
 
-### train with jupyter notebook
+### train with the jupyter notebook
 - Revise the paths of dataset and coco-format json files
 - Run each cell in the notebook
 
 
-### train with python script
+### train with the python script
 - Revise the paths accordingly
 - run the python script
 ```
