@@ -9,7 +9,7 @@
 https://detectron2.readthedocs.io/en/latest/tutorials/install.html 
 
 ### train with the jupyter notebook
-- Revise the paths of dataset and coco-format json files
+- Revise the paths of dataset and coco-format json files (in the zip file)
 - Run each cell in the notebook
 
 
