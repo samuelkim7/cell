@@ -171,7 +171,7 @@ def main(args):
     cfg = setup(args)
 
     logging_path = ''
-    logger = sc_logger('seizure_detection', f'{cfg.OUTPUT_DIR}/{cfg.MODEL_NAME}.log')
+    logger = sc_logger('cell_segmentation', f'{cfg.OUTPUT_DIR}/{cfg.MODEL_NAME}.log')
 
     msg = ''
     for k, v in cfg.items():
